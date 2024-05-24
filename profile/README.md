@@ -1,9 +1,3 @@
-<p align="center">
-  <a href="https://leanphp.io" target="_blank">
-    <img src="https://pbs.twimg.com/profile_images/1792313080598192128/s807NH3d_400x400.jpg" width="200" alt="LeanPHP Logo">
-  </a>
-</p>
-
 # LeanPHP | The Micro Framework for Agile Startups!
 
 LeanPHP is a lightweight, PHP-based micro-framework designed to accelerate the development of minimum viable products (MVPs) for startups and tech enterprises. It runs on any PHP hosting without the need for additional packages or installations, aligns with agile and lean startup methodologies, allowing for rapid development and deployment with minimal costs.
