@@ -1,17 +1,54 @@
-# LeanPHP | The Micro Framework for Agile Startups!
+<div align="center">
+  <img height="150" src="https://pbs.twimg.com/profile_images/1792313080598192128/s807NH3d_400x400.jpg"  />
+</div>
+<br><br>
+<h1 align="center">LeanPHP | The Micro Framework for Agile Startups!👋</h1>
+<br><br>
+<div align="center">
+  <img src="https://img.shields.io/static/v1?message=Patreon&logo=patreon&label=&color=F96854&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="patreon logo"  />
+  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
+  <img src="https://img.shields.io/static/v1?message=Codepen&logo=codepen&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="codepen logo"  />
+  <img src="https://img.shields.io/static/v1?message=Stackoverflow&logo=stackoverflow&label=&color=FE7A16&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="stackoverflow logo"  />
+  <img src="https://img.shields.io/static/v1?message=Slack&logo=slack&label=&color=4A154B&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="slack logo"  />
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+</div>
+<br><br>
 
-LeanPHP is a lightweight, PHP-based micro-framework designed to accelerate the development of minimum viable products (MVPs) for startups and tech enterprises. It runs on any PHP hosting without the need for additional packages or installations, aligns with agile and lean startup methodologies, allowing for rapid development and deployment with minimal costs.
+<h3 align="left"> About LeanPHP</h3>
 
-![License](https://img.shields.io/github/license/leanphpio/leanphp)
-![GitHub stars](https://img.shields.io/github/stars/leanphpio/leanphp?style=social)
-![GitHub forks](https://img.shields.io/github/forks/leanphpio/leanphp?style=social)
-![GitHub issues](https://img.shields.io/github/issues/leanphpio/leanphp)
-![GitHub pull requests](https://img.shields.io/github/issues-pr/leanphpio/leanphp)
-![Twitter Follow](https://img.shields.io/twitter/follow/leanphpio?style=social)
+<p align="left">⚡ LeanPHP is a lightweight, PHP-based micro-framework designed to accelerate the development of minimum viable products (MVPs) for startups and tech enterprises. It runs on any PHP hosting without the need for additional packages or installations, aligns with agile and lean startup methodologies, allowing for rapid development and deployment with minimal costs.</p>
+<br><br>
 
-## Key Features
+<h3 align="left">Language and tools</h3>
 
-The term "Lean PHP" typically refers to how lean principles can be applied to the PHP programming language in software development. Lean is centered around reducing waste and maximizing value, which can be implemented in software development in various ways. Lean principles generally include the following concepts:
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" height="40" alt="apache logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="40" alt="oracle logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="40" alt="microsoftsqlserver logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="40" alt="kubernetes logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="40" alt="docker logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" height="40" alt="nginx logo"  />
+</div>
+
+<br><br>
+### Key Features
+
+The term “Lean PHP” typically refers to how lean principles can be applied to the PHP programming language in software development. Lean is centered around reducing waste and maximizing value, which can be implemented in software development in various ways. Lean principles generally include the following concepts:
 
 - **Agile Compatibility**: Supports continuous integration and continuous deployment (CI/CD) practices.
 - **Lean Startup Ready**: "Download, run, and develop" model for frequent product releases.
@@ -22,16 +59,6 @@ The term "Lean PHP" typically refers to how lean principles can be applied to th
 - **Continuous Improvement**: Regularly reviewing and improving processes.
 - **Reducing Waste**: Minimizing waste of time, resources, and effort.
 - **Rapid Feedback**: Quickly obtaining feedback from customers and users and reflecting it on the product.
-
-Applying lean principles to PHP aims to make the code cleaner, easier to maintain, and more efficient. This approach can also align with agile software development methodologies, as both emphasize adaptability and continuous improvement.
-
-Lean PHP might also involve techniques like developing a minimum viable product (MVP), rapid prototyping, and iterative development based on customer feedback. This approach can be particularly beneficial for startups and projects that need to adapt quickly to dynamic market conditions.
-
-## About LeanPHP
-
-LeanPHP is a micro framework designed for PHP developers who value simplicity and agility in their projects. It follows the "Download and Use" philosophy, requiring no installation or complex configurations. LeanPHP aims to offer an ideal solution for startups and rapid MVP development processes with its minimal structure, quick setup, and integrated features.
-
-### Key Features
 - **Quick Setup and Usage**: LeanPHP stands out with its fast and simple setup process, allowing developers to start building immediately.
 - **Integrated Core Features**: Includes error handling, logging, email sending, unit testing, and JWT token-based authentication and authorization.
 - **Minimalist Architecture**: Designed to be lightweight and efficient, running on any PHP hosting environment without additional setup.
@@ -45,6 +72,7 @@ Our mission is to provide a lightweight, easy-to-use PHP framework that helps de
 ### Vision
 We envision a world where developers can focus on building innovative solutions without being bogged down by complex setups and configurations. LeanPHP aims to be the go-to framework for rapid development and agile methodologies.
 
+<br><br>
 ## Why Choose LeanPHP?
 
 LeanPHP is built for developers who need to move fast and efficiently. Here are a few reasons why LeanPHP might be the right choice for your next project:
@@ -54,6 +82,7 @@ LeanPHP is built for developers who need to move fast and efficiently. Here are 
 - **Flexibility**: Whether you're building a simple web application or a complex API, LeanPHP's flexible structure adapts to your needs.
 - **Community and Support**: A growing community and professional support options to help you succeed.
 
+<br><br>
 ## Comparison with Other Frameworks
 
 | Feature                                     | LeanPHP                | Laravel               | Symfony               | Slim                  |
@@ -110,7 +139,7 @@ Start coding with LeanPHP and save time building your PHP projects!
 ## Join Our Community
 
 - **Twitter**: Follow us on [Twitter](https://twitter.com/leanphpio)
-- **Discord**: Join our [Discord](https://discord.gg/leanphp) community to chat with the developers and other users.
+- **Discord**: Join our [Discord](https://discord.gg/leanphpio) community to chat with the developers and other users.
 
 ## Get Involved
 
@@ -129,6 +158,6 @@ For support, inquiries, or more information about LeanPHP, please reach out to u
 
 - **Email**: support@leanphp.io
 - **Community Forum**: [LeanPHP Mastodon](https://phpc.social/@leanphp)
-- **GitHub Issues**: [LeanPHP GitHub](https://github.com/leanphp/leanphp/issues)
+- **GitHub Issues**: [LeanPHP GitHub](https://github.com/leanphpio/leanphp/issues)
 
 Thank you for being part of the LeanPHP community!
