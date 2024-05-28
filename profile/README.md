@@ -2,11 +2,11 @@
 
 LeanPHP is a lightweight, PHP-based micro-framework designed to accelerate the development of minimum viable products (MVPs) for startups and tech enterprises. It runs on any PHP hosting without the need for additional packages or installations, aligns with agile and lean startup methodologies, allowing for rapid development and deployment with minimal costs.
 
-![License](https://img.shields.io/github/license/leanphp-projects/leanphp)
-![GitHub stars](https://img.shields.io/github/stars/leanphp-projects/leanphp?style=social)
-![GitHub forks](https://img.shields.io/github/forks/leanphp-projects/leanphp?style=social)
-![GitHub issues](https://img.shields.io/github/issues/leanphp-projects/leanphp)
-![GitHub pull requests](https://img.shields.io/github/issues-pr/leanphp-projects/leanphp)
+![License](https://img.shields.io/github/license/leanphpio/leanphp)
+![GitHub stars](https://img.shields.io/github/stars/leanphpio/leanphp?style=social)
+![GitHub forks](https://img.shields.io/github/forks/leanphpio/leanphp?style=social)
+![GitHub issues](https://img.shields.io/github/issues/leanphpio/leanphp)
+![GitHub pull requests](https://img.shields.io/github/issues-pr/leanphpio/leanphp)
 ![Twitter Follow](https://img.shields.io/twitter/follow/leanphpio?style=social)
 
 ## Key Features
@@ -102,8 +102,8 @@ For more information on how to contribute, see the [Contribution Guidelines](con
 ## Resources
 
 - [Official Website](https://leanphp.io/)
-- [GitHub Repository](https://github.com/leanphp-projects/leanphp)
-- [Documentation](https://leanphp.io/leanphp-projects/)
+- [GitHub Repository](https://github.com/leanphpio/leanphp)
+- [Documentation](https://leanphp.io/leanphpio/)
 
 Start coding with LeanPHP and save time building your PHP projects!
 
