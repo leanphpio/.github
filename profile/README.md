@@ -1,7 +1,3 @@
-<div align="center">
-  <img height="150" src="https://pbs.twimg.com/profile_images/1792313080598192128/s807NH3d_400x400.jpg"  />
-</div>
-<br><br>
 <h1 align="center">LeanPHP | The Micro Framework for Agile Startups!👋</h1>
 <br><br>
 <div align="center">
